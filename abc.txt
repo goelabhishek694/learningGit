@@ -1,7 +1,1 @@
 Welcome to Hello Git
-Learning git from basics
-with Abhishek Goel
-
-or else 
-
-Hello 
