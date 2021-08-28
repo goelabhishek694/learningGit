@@ -1,1 +1,2 @@
-Pepcoding
+hello git 
+is a nice series 
