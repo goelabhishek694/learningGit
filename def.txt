@@ -1,8 +1,2 @@
 hi i am txt file
 i store text
-
-
-choko poko 
-
-
-def.txt file 
