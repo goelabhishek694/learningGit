@@ -10,3 +10,6 @@ pakalu papito
 how are u 
 
 yolo molo
+
+
+abc.txt file 

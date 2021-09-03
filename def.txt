@@ -3,3 +3,6 @@ i store text
 
 
 choko poko 
+
+
+def.txt file 
