@@ -1,4 +1,7 @@
 hi i am txt file
-i store text\
+i store text file 
+
+
+what do u store ?
 
 
